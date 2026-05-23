@@ -1,31 +1,19 @@
-# 🏨 Hostel Management System
 
-**Author:** Keerthana M S  
-**Institute:** JnanaVikas Institute Of Technology  
+# 🏨 Hostel Management System with AI Complaint Analysis
 
-A web-based Hostel Management System developed using Python (Flask) and MySQL.
+A Python-based Hostel Management System designed to manage student records, room allocation, and fee tracking efficiently.
 
-## Features
-- Student Management
-- Room Allocation
-- Fee Tracking
-- Complaint System
+This project also includes an **AI-powered complaint analysis feature** that automatically categorizes and prioritizes student complaints.
 
-## Technologies
-- Python (Flask)
-- MySQL
-- HTML, CSS
+---
 
-## Run Project
-1. Import database/hostel_db.sql
-2. pip install -r requirements.txt
-3. python app.py
+## 🚀 Features
 
-
-### AI Complaint Analysis (LLM)
-This feature uses an LLM API to classify hostel complaints (category, priority, summary).
-If API quota is unavailable, the app falls back to a mock analyzer (rule-based) to keep the demo runnable.
-
-Enable mock mode:
-USE_MOCK_AI=true
-
+✅ Add / View / Vacate Students  
+✅ Room Allocation & Occupancy Tracking  
+✅ Fee Payment Management  
+✅ 🤖 AI Complaint Analysis  
+- Automatic complaint summarization  
+- Category detection (Maintenance, Cleanliness, Security, Other)  
+- Priority classification (Low, Medium, High)  
+- Works with real AI OR fallback (Mock AI)
