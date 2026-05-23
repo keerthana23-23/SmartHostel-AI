@@ -17,3 +17,10 @@ This project also includes an **AI-powered complaint analysis feature** that aut
 - Category detection (Maintenance, Cleanliness, Security, Other)  
 - Priority classification (Low, Medium, High)  
 - Works with real AI OR fallback (Mock AI)
+
+
+## 🎥 Demo Video
+
+A short demonstration of SmartHostel-AI showcasing core features and AI-based complaint analysis.
+
+🔗 https://drive.google.com/file/d/1IAdbS3IkfnvoK-JR6sjnuVye9MOCXbCM/view
